@@ -27,7 +27,7 @@ header
 .menu
 {
 	float: right;
-	list-style: : none;
+	list-style: none;
 	margin: 20px;
 }
 
@@ -40,10 +40,10 @@ header
 .menu li a 
 {
 	text-decoration: none;
-	color: #fff
+	color: #fff;
 	padding: 5px 10px;
 	font-family: sans-serif;
-	letter-spacing: 2px
+	letter-spacing: 2px;
 	border: 1px solid #fff;
 }
 
