@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
 h1 {
   font-family: 'Lato';
   font-size: 48px;
@@ -25,7 +27,7 @@ h3 {
 body {
   font-family: sans-serif;
   background-color: #f5f5f5;
-  margin-top: 50px;
+  margin-top: 80px;
   margin-bottom: 50px;
   margin-right: 10%;
   margin-left: 10%;
@@ -114,8 +116,8 @@ div.topbar {
   background-color: #fff;
 }
 
-div.topbar p{
-  font-size: 16px;
+div.topbar p {
+  font-size: 18px;
   text-align: center;
 }
 
