@@ -1,24 +1,24 @@
 h1 {
-  font-family: serif;
+  font-family: 'Lato';
   font-size: 48px;
   font-weight: bold;
-  text-align: center;
+  text-align: left;
   color: #2e2e2e;
 }
 
 h2 {
-  font-family: serif;
+  font-family: 'Lato';
   font-size: 32px;
   font-weight: bold;
-  text-align: center;
+  text-align: left;
   color: #2e2e2e;
 }
 
 h3 {
-  font-family: serif;
+  font-family: 'Lato';
   font-size: 24px;
   font-weight: bold;
-  text-align: center;
+  text-align: left;
   color: #2e2e2e;
 }
 
@@ -31,10 +31,10 @@ body {
   margin-left: 20%;
 }
 
-body p{
+body p {
   color: #6b6b6b;
   font-size: 24px;
-  text-align: center;
+  text-align: left;
 }
 
 a {
@@ -105,7 +105,7 @@ div.navbar .active {
 }
 
 div.topbar {
-  font-family: serif;
+  font-family: 'Lato';
   position: fixed;
   top: 0;
   left: 0;
