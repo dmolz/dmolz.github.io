@@ -4,22 +4,19 @@
 		padding: 0;
 }
 
-header
-{
+header{
 	background-color: #95c3d0;
 	height: 100vh;
 	/*background-size: cover:
 	background-position: center;*/
 }
 
-.nav-bar
-{	
+.nav-bar {	
 	background: rgb(0,0,0,0.5);
 	height: 80px;
 }
 
-.logo
-{
+.logo {
 	margin: 10px 50px;
 	height: 60px;
 }
@@ -37,8 +34,7 @@ header
 	margin: 10px 5px;
 }
 
-.menu li a 
-{
+.menu li a {
 	text-decoration: none;
 	color: #fff;
 	padding: 5px 10px;
@@ -47,15 +43,13 @@ header
 	border: 1px solid #fff;
 }
 
-.menu li a:hover
-{
+.menu li a:hover {
 	background: #fff;
 	transition: .4s;
 	color: #000;
 }
 
-.welcome
-{
+.welcome {
 	position: relative;
 	text-align: center;
 	font-family: sans-serif;
@@ -68,8 +62,7 @@ header
 	margin: 25px;
 }
 
-.btn 
-{
+.btn {
 	font-size: 18px;
 	letter-spacing: 2px;
 	margin: 5px;
@@ -78,20 +71,7 @@ header
 	border: 1px solid #fff;
 }
 
-.btn1
-{
+.btn1 {
 	background: #fff;
-	color: #000;
-}
-
-.btn2
-{
-	color: #fff;
-}
-
-.btn2:hover
-{
-	background: #fff;
-	transition: .4s;
 	color: #000;
 }
