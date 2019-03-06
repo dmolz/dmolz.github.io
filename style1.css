@@ -1,5 +1,5 @@
 h1 {
-  font-family: sans-serif;
+  font-family: serif;
   font-size: 64px;
   font-weight: bold;
   text-align: center;
@@ -7,7 +7,7 @@ h1 {
 }
 
 h2 {
-  font-family: sans-serif;
+  font-family: serif;
   font-size: 32px;
   font-weight: bold;
   text-align: center;
@@ -15,7 +15,7 @@ h2 {
 }
 
 body {
-  font-family: serif;
+  font-family: sans-serif;
   background-color: #f5f5f5;
   margin-top: 100px;
   margin-bottom: 80px;
@@ -97,7 +97,7 @@ div.navbar .active {
 }
 
 div.topbar {
-  font-family: 'Lato';
+  font-family: serif;
   position: fixed;
   top: 0;
   left: 0;
@@ -114,7 +114,7 @@ div.topbar p{
 }
 
 footer {
-  font-family: 'Lato';
+  font-family: serif;
   position: fixed;
   bottom: 0;
   left: 0;
